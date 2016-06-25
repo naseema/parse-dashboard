@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "serverURL": "https://linkyou.herokuapp.com/parse",
+      "appId": "myAppId",
+      "masterKey": "myMasterKey",
+      "appName": "MyApp"
+    }
+  ]
+}
